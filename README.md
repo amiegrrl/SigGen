@@ -1,0 +1,2 @@
+# SigGen
+Email Signature Generator
